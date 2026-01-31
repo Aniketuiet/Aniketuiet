@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Aniket, a Software Engineer passionate about building scalable, user-centric applications<br><br>💻 Currently working at Electrowaves Electronics, contributing to real-world energy and IoT-driven solutions<br><br>📱 Experienced in React Native and React.js for crafting smooth, high-performance mobile and web applications<br><br>🌐 Strong backend exposure with Java, Spring Boot, REST APIs, and efficient database design<br><br>🤖 Hands-on with AI/ML, and author of a research paper in the field of Machine Learning, with a strong interest in applying ML to real-world problems<br><br>🧭 Enjoy solving complex challenges involving live data, sensors, maps, and real-time systems<br><br>🎨 Care deeply about UI/UX, dark themes, animations, and pixel-perfect interfaces<br><br>🚀 Always learning, experimenting, and shipping code that makes it to production<br><br>🤝 Open to collaboration on mobile apps, full-stack projects, AI/ML ideas, and open-source contributions
 
 
